@@ -1,0 +1,1 @@
+img.innerHTML = '<img src="imagem001.png" alt="Imagem" width=200px>'
